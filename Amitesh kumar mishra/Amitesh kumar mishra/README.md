@@ -1,4 +1,4 @@
-### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=edf4f7&vCenter=true&color=green&lines=Hey+👋,+I'm+Amitesh+Kumar) 
+### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=edf4f7&vCenter=true&color=green&lines=Hey+👋,+I'm+Amitesh+Kumar+Mishra+From+Bihar) 
 <div align="center">
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
    <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
@@ -13,7 +13,7 @@
  </p>
 
 <div align="center">
-<h3> 🙎 Amitesh Kumar |<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Front End Developer | 🛸 India </h3>
+<h3> 🙎 Amitesh Kumar Mishra|<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Front End Developer | 🛸 India </h3>
 </div>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>Passionate about working on web applications, creating softwarecomputer and tools to help people, building a community</b> :blush:</em>
